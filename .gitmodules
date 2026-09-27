@@ -7,3 +7,6 @@
 [submodule "ovl-KeyX/libs/libultrahand"]
 	path = ovl-KeyX/libs/libultrahand
 	url = https://github.com/ppkantorski/libultrahand
+[submodule "ovl-KeyX/libs/libtesla"]
+	path = ovl-KeyX/libs/libtesla
+	url = https://github.com/WerWolv/libtesla.git
