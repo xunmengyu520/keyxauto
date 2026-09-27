@@ -41,7 +41,7 @@ SOURCES		:=	source \
 DATA		:=	data
 INCLUDES	:=	include \
 			libs/libtesla/include \
-			libs/libultrahand/include
+			libs/libultrahand/include \
 				include/about \
 				include/turbo \
 				include/remap \
