@@ -40,6 +40,8 @@ SOURCES		:=	source \
 				libs/lib-QR-Code-generator
 DATA		:=	data
 INCLUDES	:=	include \
+			libs/libtesla/include \
+			libs/libultrahand/include
 				include/about \
 				include/turbo \
 				include/remap \
